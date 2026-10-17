@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "EFA-DOCS Mobile",
+  "short_name": "EFA-DOCS",
+  "description": "Registres, appel, fiches de préparation et documents administratifs pour les écoles franco-arabes. Gratuit et hors connexion.",
+  "lang": "fr",
+  "dir": "auto",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5f2",
+  "theme_color": "#1f4979",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
