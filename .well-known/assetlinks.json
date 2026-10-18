@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "sn.efadocs.mobile",
-    "sha256_cert_fingerprints": ["REMPLACER_PAR_L_EMPREINTE_SHA256_DONNEE_PAR_PWABUILDER_ET_PLAY_CONSOLE"]
+    "sha256_cert_fingerprints": ["FD:DC:2D:BC:50:1D:DA:53:12:A8:F8:53:47:52:C5:4E:85:53:C6:2C:77:1A:63:27:FE:30:BE:CE:2D:BD:6C:9B"]
   }
 }]
